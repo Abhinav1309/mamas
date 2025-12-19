@@ -1,0 +1,33 @@
+ Built Network Cloud sites and oversaw deployment in the Network Cloud Env.
+ Worked on Pre-prod and Production deployments.
+ We employ using different tools : Git, Jenkins, Docker & Kubernetes to complete
+the deployments.
+ Experience in Kubernetes deployment strategies for deploying the required
+Application software.
+ Experience in making necessary changes in the deployment files whenever there
+is a new requirement of adding or deleting the key options with respect to
+deployment.
+ Ensure building Kubernetes Clusters as per architecture and maintain the cluster in
+a healthy state for high availability.
+ Good experience with helm charts deployments, writing manifest files to deploy
+Kubernetes objects/microservices.
+ Optimized deployments over large infrastructure for improved performance.
+ Proactively addressed build issues, liaised with development teams, effectively 
+resolved related build issues.
+ Experience in developing custom scripts using Shell and developed some scripts
+that automate few of regular activities.
+ Delivered high quality strategic solutions to resolve the challenges and drive
+business growth.
+ Experienced in working with containerization tools like Docker for building images
+which we use as base image to create app image from our code.
+ Hands-on experience in Docker, Docker-Compose and addressing issues during
+image building.
+ Experience in defining Docker-Compose for running multiple containers.
+ Hands-on troubleshooting issues in Kubernetes and maintaining cluster high
+availability.
+ Hands-on troubleshooting experience in Kubernetes and helm during the
+deployment activities and ensure complete of deployment.
+ Maintained Kubernetes Clusters security annually by rotating TLS and SSL Certs.
+ Ensure upgrade all the servers within the Kubernetes cluster to the desired level of
+versions as per the latest upgrade available.
+ Monitoring the infrastructure using Nagios, Kibana, Grafana and Prometheus.
